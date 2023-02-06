@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 1069,
-    "timeWeek": 1069,
-    "timeMonth": 1069,
-    "timeYear": 1069,
+    "time": 1231,
+    "timeDay": 1231,
+    "timeWeek": 1231,
+    "timeMonth": 1231,
+    "timeYear": 1231,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 853,
-    "timeWeek": 853,
-    "timeMonth": 853,
-    "timeYear": 853,
+    "time": 834,
+    "timeDay": 834,
+    "timeWeek": 834,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
     "name": "Trady",
-    "url": "https://trady.ro",
-    "icon": "https://icons.duckduckgo.com/ip3/trady.ro.ico",
+    "url": "https://www.trady.ro",
+    "icon": "https://icons.duckduckgo.com/ip3/www.trady.ro.ico",
     "slug": "trady",
     "status": "down",
-    "uptime": "14.56%",
-    "uptimeDay": "14.56%",
-    "uptimeWeek": "14.56%",
-    "uptimeMonth": "14.56%",
-    "uptimeYear": "14.56%",
+    "uptime": "0.62%",
+    "uptimeDay": "0.62%",
+    "uptimeWeek": "0.62%",
+    "uptimeMonth": "0.62%",
+    "uptimeYear": "0.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 4
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2193,
-    "timeDay": 2193,
-    "timeWeek": 2193,
-    "timeMonth": 2193,
-    "timeYear": 2193,
+    "time": 2459,
+    "timeDay": 2459,
+    "timeWeek": 2459,
+    "timeMonth": 2459,
+    "timeYear": 2459,
     "dailyMinutesDown": {}
   }
 ]
