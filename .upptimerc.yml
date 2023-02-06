@@ -11,6 +11,20 @@ sites:
     url: https://www.trady.ro
   - name: Fvideo
     url: https://www.fvideo.ro
+  - name: Trioserv n8n
+    url: https://n8n-production-3916.up.railway.app  
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+  - name: TRD HQ
+    check: "tcp-ping"
+    url: 81.196.87.173
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
