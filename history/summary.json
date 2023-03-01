@@ -58,10 +58,10 @@
     "url": "https://www.fvideo.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.fvideo.ro.ico",
     "slug": "fvideo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 2750,
@@ -70,7 +70,7 @@
     "timeMonth": 2750,
     "timeYear": 2750,
     "dailyMinutesDown": {
-      "2023-03-01": 16
+      "2023-03-01": 17
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n-production-3916.up.railway.app.ico",
     "slug": "trioserv-n8n",
     "status": "down",
-    "uptime": "93.35%",
+    "uptime": "93.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.63%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "93.35%",
+    "uptimeWeek": "78.52%",
+    "uptimeMonth": "93.32%",
+    "uptimeYear": "93.32%",
     "time": 226,
     "timeDay": 308,
     "timeWeek": 245,
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-03-01": 642,
+      "2023-03-01": 653,
       "2023-02-28": 1440,
       "2023-02-27": 72
     }
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-01": 642,
+      "2023-03-01": 653,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
