@@ -67,19 +67,19 @@
     "url": "https://www.trady.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.trady.ro.ico",
     "slug": "trady",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2789,
-    "timeDay": 2996,
-    "timeWeek": 2789,
-    "timeMonth": 2789,
-    "timeYear": 2789,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 2815,
+    "timeDay": 2995,
+    "timeWeek": 2815,
+    "timeMonth": 2815,
+    "timeYear": 2815,
     "dailyMinutesDown": {
-      "2024-01-23": 1
+      "2024-01-23": 31
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 278,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-01-23": 887,
+      "2024-01-23": 919,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 887,
+      "2024-01-23": 919,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
