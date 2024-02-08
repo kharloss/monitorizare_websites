@@ -21,10 +21,10 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-  - name: TRD HQ
-    check: "tcp-ping"
-    url: 81.196.87.173
-    port: 53
+  #- name: TRD HQ
+  #  check: "tcp-ping"
+   # url: 81.196.87.173
+  #  port: 53
 
 status-website:
   theme: ocean
