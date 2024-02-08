@@ -12,7 +12,7 @@ sites:
   - name: Fvideo
     url: https://www.fvideo.ro
   - name: Trioserv n8n
-    url: https://n8n-production-3916.up.railway.app  
+    url: https://n8n.trioserv.ro
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
