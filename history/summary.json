@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1357,
-    "timeDay": 1025,
-    "timeWeek": 1054,
-    "timeMonth": 1244,
+    "timeDay": 1516,
+    "timeWeek": 1144,
+    "timeMonth": 1245,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2023-10-19": 60,
@@ -30,8 +30,7 @@
       "2023-07-18": 22,
       "2023-07-11": 18,
       "2023-07-08": 20,
-      "2023-07-07": 44,
-      "2023-03-27": 18
+      "2023-07-07": 44
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1259,
-    "timeDay": 604,
-    "timeWeek": 1776,
+    "time": 1258,
+    "timeDay": 909,
+    "timeWeek": 1817,
     "timeMonth": 996,
     "timeYear": 1321,
     "dailyMinutesDown": {
@@ -73,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.79%",
-    "time": 2688,
-    "timeDay": 2209,
-    "timeWeek": 2452,
-    "timeMonth": 2593,
-    "timeYear": 2688,
+    "time": 2689,
+    "timeDay": 2725,
+    "timeWeek": 2510,
+    "timeMonth": 2588,
+    "timeYear": 2689,
     "dailyMinutesDown": {
       "2024-03-15": 264,
       "2024-03-13": 78,
@@ -97,12 +96,12 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.53%",
-    "time": 2335,
-    "timeDay": 2319,
-    "timeWeek": 2213,
+    "time": 2336,
+    "timeDay": 2647,
+    "timeWeek": 2132,
     "timeMonth": 2305,
     "timeYear": 2309,
     "dailyMinutesDown": {
@@ -134,16 +133,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trioserv.ro.ico",
     "slug": "trioserv-n8n",
     "status": "up",
-    "uptime": "16.10%",
+    "uptime": "16.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.14%",
-    "time": 312,
-    "timeDay": 712,
-    "timeWeek": 703,
-    "timeMonth": 775,
-    "timeYear": 326,
+    "uptimeYear": "12.42%",
+    "time": 314,
+    "timeDay": 961,
+    "timeWeek": 744,
+    "timeMonth": 770,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2024-02-08": 1049,
       "2024-02-07": 1440,
@@ -462,8 +461,7 @@
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
-      "2023-03-28": 1440,
-      "2023-03-27": 1440
+      "2023-03-28": 1440
     }
   },
   {
@@ -479,7 +477,7 @@
     "uptimeYear": "99.46%",
     "time": 6,
     "timeDay": 2,
-    "timeWeek": 3,
+    "timeWeek": 2,
     "timeMonth": 3,
     "timeYear": 5,
     "dailyMinutesDown": {
