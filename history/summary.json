@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1341,
-    "timeDay": 1070,
-    "timeWeek": 1185,
-    "timeMonth": 1192,
-    "timeYear": 1339,
+    "timeDay": 1192,
+    "timeWeek": 1109,
+    "timeMonth": 1196,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2024-10-27": 66,
       "2024-10-26": 18,
@@ -35,10 +35,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.77%",
     "time": 1284,
-    "timeDay": 724,
-    "timeWeek": 753,
-    "timeMonth": 741,
-    "timeYear": 1397,
+    "timeDay": 640,
+    "timeWeek": 705,
+    "timeMonth": 739,
+    "timeYear": 1396,
     "dailyMinutesDown": {
       "2024-11-18": 18,
       "2024-10-25": 47,
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.21%",
     "uptimeYear": "98.56%",
-    "time": 2764,
-    "timeDay": 2263,
-    "timeWeek": 2526,
-    "timeMonth": 2521,
-    "timeYear": 2764,
+    "time": 2763,
+    "timeDay": 2321,
+    "timeWeek": 2392,
+    "timeMonth": 2522,
+    "timeYear": 2763,
     "dailyMinutesDown": {
       "2024-12-02": 490,
       "2024-12-01": 1440,
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.64%",
-    "time": 2678,
-    "timeDay": 2524,
-    "timeWeek": 2640,
-    "timeMonth": 3251,
-    "timeYear": 2819,
+    "time": 2679,
+    "timeDay": 2510,
+    "timeWeek": 2577,
+    "timeMonth": 3259,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2024-11-18": 30,
       "2024-11-15": 47,
@@ -177,16 +177,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trioserv.ro.ico",
     "slug": "trioserv-n8n",
     "status": "up",
-    "uptime": "48.78%",
+    "uptime": "48.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.20%",
-    "time": 638,
-    "timeDay": 701,
-    "timeWeek": 782,
-    "timeMonth": 925,
-    "timeYear": 749,
+    "uptimeYear": "84.47%",
+    "time": 639,
+    "timeDay": 685,
+    "timeWeek": 734,
+    "timeMonth": 921,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2024-07-30": 33,
       "2024-07-24": 15,
@@ -244,8 +244,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   },
   {
@@ -261,12 +260,11 @@
     "uptimeYear": "99.46%",
     "time": 4,
     "timeDay": 6,
-    "timeWeek": 3,
+    "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 3,
     "dailyMinutesDown": {
-      "2023-12-16": 82,
-      "2023-12-15": 1440
+      "2023-12-16": 82
     }
   },
   {
@@ -286,8 +284,7 @@
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2023-12-16": 82,
-      "2023-12-15": 1440
+      "2023-12-16": 82
     }
   }
 ]
