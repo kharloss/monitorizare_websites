@@ -175,11 +175,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trioserv.ro.ico",
     "slug": "trioserv-n8n",
     "status": "up",
-    "uptime": "52.68%",
+    "uptime": "52.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.51%",
     "time": 706,
     "timeDay": 737,
     "timeWeek": 858,
@@ -190,8 +190,7 @@
       "2025-01-31": 42,
       "2024-12-30": 76,
       "2024-07-30": 33,
-      "2024-07-24": 15,
-      "2024-02-08": 1049
+      "2024-07-24": 15
     }
   },
   {
