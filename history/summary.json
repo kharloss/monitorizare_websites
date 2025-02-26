@@ -173,7 +173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trioserv.ro.ico",
     "slug": "trioserv-n8n",
     "status": "up",
-    "uptime": "53.89%",
+    "uptime": "53.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -214,11 +214,11 @@
     "url": "8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 3,
@@ -226,7 +226,7 @@
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2025-02-26": 0
+      "2025-02-26": 15
     }
   }
 ]
