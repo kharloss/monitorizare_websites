@@ -214,9 +214,9 @@
     "url": "8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -225,6 +225,8 @@
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 4,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   }
 ]
