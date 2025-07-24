@@ -8,13 +8,13 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 2382,
-    "timeDay": 2289,
-    "timeWeek": 6215,
-    "timeMonth": 5046,
-    "timeYear": 2693,
+    "time": 2386,
+    "timeDay": 2955,
+    "timeWeek": 6241,
+    "timeMonth": 5244,
+    "timeYear": 2698,
     "dailyMinutesDown": {
       "2025-07-18": 28,
       "2025-07-07": 19,
@@ -42,9 +42,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 1357,
-    "timeDay": 654,
-    "timeWeek": 946,
-    "timeMonth": 1451,
+    "timeDay": 961,
+    "timeWeek": 944,
+    "timeMonth": 1461,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2025-07-10": 17,
@@ -81,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.73%",
     "time": 2728,
-    "timeDay": 2017,
-    "timeWeek": 2611,
-    "timeMonth": 2566,
-    "timeYear": 2725,
+    "timeDay": 2982,
+    "timeWeek": 2610,
+    "timeMonth": 2584,
+    "timeYear": 2724,
     "dailyMinutesDown": {
       "2025-07-17": 20,
       "2025-06-19": 29,
@@ -108,8 +108,7 @@
       "2024-10-09": 25,
       "2024-09-30": 23,
       "2024-09-15": 16,
-      "2024-09-04": 22,
-      "2024-07-24": 155
+      "2024-09-04": 22
     }
   },
   {
@@ -123,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.84%",
-    "time": 3099,
-    "timeDay": 2305,
-    "timeWeek": 2586,
-    "timeMonth": 2540,
-    "timeYear": 3326,
+    "time": 3101,
+    "timeDay": 3155,
+    "timeWeek": 2608,
+    "timeMonth": 2565,
+    "timeYear": 3328,
     "dailyMinutesDown": {
       "2025-07-15": 47,
       "2025-06-04": 124,
@@ -147,8 +146,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 894,
-      "2024-07-25": 241,
-      "2024-07-24": 51
+      "2024-07-25": 241
     }
   },
   {
@@ -157,15 +155,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trioserv.ro.ico",
     "slug": "trioserv-n8n",
     "status": "up",
-    "uptime": "61.43%",
+    "uptime": "61.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 830,
-    "timeDay": 745,
-    "timeWeek": 781,
-    "timeMonth": 762,
+    "timeDay": 907,
+    "timeWeek": 782,
+    "timeMonth": 764,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2025-05-30": 27,
@@ -175,8 +173,7 @@
       "2025-02-02": 17,
       "2025-01-31": 42,
       "2024-12-30": 76,
-      "2024-07-30": 33,
-      "2024-07-24": 15
+      "2024-07-30": 33
     }
   },
   {
@@ -191,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
+    "timeDay": 2,
     "timeWeek": 5,
-    "timeMonth": 5,
+    "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -209,7 +206,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
+    "timeDay": 2,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 4,
