@@ -101,14 +101,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.25%",
+    "uptimeYear": "55.24%",
     "time": 772,
     "timeDay": 183,
     "timeWeek": 369,
     "timeMonth": 255,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2026-02-05": 655,
+      "2026-02-05": 695,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -322,9 +322,9 @@
     "url": "https://www.fvideo.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.fvideo.ro.ico",
     "slug": "fvideo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.38%",
@@ -386,7 +386,7 @@
       "2025-11-22": 293,
       "2025-11-21": 102,
       "2025-11-20": 325,
-      "2025-11-19": 60
+      "2025-11-19": 39
     }
   },
   {
@@ -396,7 +396,7 @@
     "slug": "trioserv-n8n",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "93.59%",
+    "uptimeDay": "95.55%",
     "uptimeWeek": "96.39%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "99.39%",
