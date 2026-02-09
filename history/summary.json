@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.apanovabucuresti.ro.ico",
     "slug": "apanova",
     "status": "down",
-    "uptime": "84.69%",
+    "uptime": "84.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.25%",
+    "uptimeYear": "54.19%",
     "time": 714,
     "timeDay": 237,
     "timeWeek": 234,
     "timeMonth": 256,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2026-02-09": 169,
+      "2026-02-09": 455,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -327,18 +327,19 @@
     "url": "https://www.fvideo.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.fvideo.ro.ico",
     "slug": "fvideo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "96.50%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "96.49%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "99.39%",
-    "time": 3591,
+    "uptimeYear": "99.40%",
+    "time": 3594,
     "timeDay": 2259,
     "timeWeek": 2522,
     "timeMonth": 2712,
     "timeYear": 3620,
     "dailyMinutesDown": {
+      "2026-02-09": 1,
       "2026-02-08": 99,
       "2026-02-07": 57,
       "2026-02-05": 79,
@@ -392,7 +393,7 @@
       "2025-11-23": 46,
       "2025-11-22": 293,
       "2025-11-21": 102,
-      "2025-11-20": 154
+      "2025-11-20": 85
     }
   },
   {
@@ -400,10 +401,10 @@
     "url": "https://n8n.trioserv.ro",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trioserv.ro.ico",
     "slug": "trioserv-n8n",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "96.35%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "96.34%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.39%",
     "time": 885,
@@ -412,6 +413,7 @@
     "timeMonth": 976,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2026-02-09": 0,
       "2026-02-08": 97,
       "2026-02-07": 56,
       "2026-02-05": 54,
@@ -474,7 +476,7 @@
       "2025-10-11": 31,
       "2025-10-05": 20,
       "2025-09-30": 117,
-      "2025-09-29": 43
+      "2025-09-29": 23
     }
   },
   {
