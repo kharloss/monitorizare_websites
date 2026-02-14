@@ -100,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.apanovabucuresti.ro.ico",
     "slug": "apanova",
     "status": "down",
-    "uptime": "84.32%",
+    "uptime": "84.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.91%",
+    "uptimeYear": "52.88%",
     "time": 708,
     "timeDay": 176,
     "timeWeek": 199,
     "timeMonth": 243,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2026-02-13": 1418,
+      "2026-02-14": 158,
+      "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -335,9 +336,9 @@
     "slug": "fvideo",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "79.04%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "97.22%",
+    "uptimeDay": "79.95%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "99.35%",
     "time": 3691,
     "timeDay": 8164,
@@ -345,7 +346,7 @@
     "timeMonth": 3649,
     "timeYear": 3705,
     "dailyMinutesDown": {
-      "2026-02-13": 301,
+      "2026-02-13": 288,
       "2026-02-12": 35,
       "2026-02-11": 48,
       "2026-02-09": 52,
@@ -401,7 +402,7 @@
       "2025-11-26": 28,
       "2025-11-23": 46,
       "2025-11-22": 293,
-      "2025-11-21": 18
+      "2025-11-21": 42
     }
   },
   {
@@ -411,17 +412,17 @@
     "slug": "trioserv-n8n",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "79.20%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "80.08%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.34%",
     "time": 888,
     "timeDay": 990,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2026-02-13": 300,
+      "2026-02-13": 287,
       "2026-02-12": 35,
       "2026-02-11": 48,
       "2026-02-09": 52,
@@ -483,7 +484,8 @@
       "2025-11-13": 21,
       "2025-11-12": 17,
       "2025-10-28": 22,
-      "2025-10-23": 18
+      "2025-10-23": 18,
+      "2025-10-11": 31
     }
   },
   {
