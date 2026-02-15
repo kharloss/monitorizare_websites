@@ -1,7 +1,7 @@
 url: https://www.trioserv.ro
-status: up
-code: 200
-responseTime: 1953
-lastUpdated: 2026-02-15T21:50:05.743Z
+status: down
+code: 415
+responseTime: 1283
+lastUpdated: 2026-02-15T22:45:20.519Z
 startTime: 2023-02-06T21:50:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
