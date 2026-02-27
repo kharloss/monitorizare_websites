@@ -1,7 +1,7 @@
 # Change these first
 owner: kharloss # Your GitHub organization or username, where this repository lives
 repo: monitorizare_websites # The name of this repository
-user-agent: kharloss.upptime.js.org
+user-agent: Upptime/2.0 Upptime
 sites:
   - name: Trioserv
     url: https://www.trioserv.ro
