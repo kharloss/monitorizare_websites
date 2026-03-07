@@ -5,12 +5,8 @@ user-agent: kharloss
 sites:
   - name: Trioserv
     url: https://www.trioserv.ro
-  - name: Apanova
-    url: https://www.apanovabucuresti.ro
   - name: Trady
     url: https://www.trady.ro
-  - name: Fvideo
-    url: https://www.fvideo.ro
   - name: Trioserv n8n
     url: https://n8n.trioserv.ro
   - name: Google DNS 1
